@@ -1,0 +1,55 @@
+body {
+    background-color: #f4f1e8;
+    color: #1c2733;
+    font-family: Arial;
+}
+
+h1 {
+    text-align: center;
+    color: #1c2733;
+    margin-top: 20px;
+}
+
+nav{
+    text-align: center;
+}
+
+nav a {
+    display: inline-block;
+    margin: 0 10px;
+    text-decoration: none;
+    color: #1c2733;
+}
+
+nav a:hover {
+    color: #ff000d;
+}
+
+main {
+    max-width: 600px;
+    margin: 0px auto;
+    padding: 20px;
+}
+
+.cartao {
+    background-color: #ffffff;
+    border: 1px solid #999;
+    border-radius: 8px;
+    padding: 12px;
+    margin-bottom: 20px;
+}
+
+.aviso {
+    background-color: #000000;
+    color: #eeeae3;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #1c2733;
+    color: #ffffff;
+}
